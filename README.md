@@ -74,4 +74,4 @@ This repository contains the solution for the Data Science Intern assignment pro
 
 ## Submission
 - **Deadline**: 27 January 2025
-- Public GitHub Repository Link: [Insert your repository link here]
+- Public GitHub Repository Link: [[Insert your repository link here]](https://github.com/shreyakabra/Zeotap-Assignment)
