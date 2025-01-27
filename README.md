@@ -67,7 +67,7 @@ This repository contains the solution for the Data Science Intern assignment pro
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/zeotap-ds-assignment.git
+   git clone https://github.com/shreyakabra/Zeotap-Assignment.git
    ```
 2. Open the Jupyter Notebooks (`.ipynb`) in a Python environment or Google Colab.
 3. Follow the notebooks step-by-step to reproduce results.
